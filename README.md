@@ -1,16 +1,14 @@
-# Settipalli Dinesh Kumar — Portfolio
+# S. Dinesh Kumar — Portfolio
 
-Personal developer portfolio for Settipalli Dinesh Kumar — Frontend & Full Stack Developer.
+Personal developer portfolio for S. Dinesh Kumar — Frontend & Full Stack Developer.
 
 ## 📁 Folder Structure
 
 ```
-sdk-portfolio/
+Portfolio-v2.0/
 ├── index.html        ← Main HTML (sections, content)
-├── css/
-│   └── style.css     ← All styles & design tokens
-├── js/
-│   └── main.js       ← Scroll effects & interactivity
+├── style.css         ← All styles & design tokens
+├── main.js           ← Scroll effects & interactivity
 └── README.md
 ```
 
